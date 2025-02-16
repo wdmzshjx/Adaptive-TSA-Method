@@ -1,4 +1,3 @@
-
 Adaptive TSA Implementation
 To implement Adaptive TSA, follow these steps:
 Data Generation: Use the widely used IEEE standard 10-generator 39-node power system to generate data, then normalize the data.

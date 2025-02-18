@@ -28,7 +28,7 @@ This repository implements the Adaptive Time Series Analysis (TSA) method. It ut
 
 ## Requirements
 - Python 3.x
-- Required libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `tensorflow` (or `pytorch` depending on the implementation)
+- Required libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `pytorch` (or `tensorflow` depending on the implementation)
 
 ## Usage
 1. Clone this repository to your local machine.

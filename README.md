@@ -32,11 +32,5 @@ This repository implements the Adaptive Time Series Analysis (TSA) method. It ut
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Install the required dependencies.
-3. Run the `main_classification32.py` script to begin the analysis.
+3. Run the `main_classification32.py` script to analysis.
 
-```bash
-git clone https://github.com/your-repository-link.git
-cd your-repository-folder
-pip install -r requirements.txt
-python main_classification32.py

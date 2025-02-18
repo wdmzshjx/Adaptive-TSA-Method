@@ -20,7 +20,7 @@ This repository implements the Adaptive Time Series Analysis (TSA) method. It ut
 ### `backbones.py`
 - **Description**: Defines the machine learning-based TSA model structure.
 
-### `loss_funcs.py`
+### `loss_funcs`
 - **Description**: Implements the loss functions and updates the dynamic adversarial factor during training.
 
 ### `tSNE39HU.py`
